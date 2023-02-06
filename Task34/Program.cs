@@ -6,15 +6,13 @@ int size = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int[size];
 
 ArrayRandomNumbers(numbers);
-Console.WriteLine("Полученный массив: ");
-//PrintArray(numbers);
 int count = 0;
 
 for (int a = 0; a < numbers.Length; a++)
     if (numbers[a] % 2 == 0)
         count++;
 
-Console.WriteLine($"Всего {numbers.Length} чисел, {count} из них четные");
+Console.WriteLine($"Всего чисел {numbers.Length}, из них четные {count}");
 
 void ArrayRandomNumbers(int[] numbers)
 {
@@ -24,7 +22,7 @@ void ArrayRandomNumbers(int[] numbers)
     }
 }
 {
-    Console.Write("[ ");
+    Console.Write("Полученный массив [ ");
     for (int b = 0; b < numbers.Length; b++)
     {
         Console.Write(numbers[b] + " ");
