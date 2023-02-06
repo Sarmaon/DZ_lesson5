@@ -1,0 +1,15 @@
+G:\Санька\Обучение\DZ_lesson5\Task34\bin\Debug\net6.0\Task34.exe
+G:\Санька\Обучение\DZ_lesson5\Task34\bin\Debug\net6.0\Task34.deps.json
+G:\Санька\Обучение\DZ_lesson5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+G:\Санька\Обучение\DZ_lesson5\Task34\bin\Debug\net6.0\Task34.dll
+G:\Санька\Обучение\DZ_lesson5\Task34\bin\Debug\net6.0\Task34.pdb
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.dll
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\refint\Task34.dll
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.pdb
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+G:\Санька\Обучение\DZ_lesson5\Task34\obj\Debug\net6.0\ref\Task34.dll
